@@ -5,3 +5,6 @@
 
 # Note: Jangan Jual Sc nya Tod
 
+# Thanks to
+ArieTube (Sc Ori)
+
