@@ -1,7 +1,7 @@
 # Jangan Lupa Subs
 
-<img src="https://telegra.ph/file/696076406bf2516adb1fd.jpg" width="200" height="200"/>
+<img src="https://github.com/deffrigans/GansBOTzV4/blob/main/thumbnail.jpg" width="200" height="200"/>
 
 
-# NOTE: DILARANG MENJUAL BELIKAN SCRIPT 
+# Note: Jangan Jual Sc nya Tod
 
