@@ -4,16 +4,16 @@ let fs = require('fs')
 global.owner = JSON.parse(fs.readFileSync('./src/owner.json')) // Ganti di Handler.js
 global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some help?
 
-global.namabot = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛-𝑽2' //nama BOT Lu
-global.packname = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛-𝑽2'
-global.author = 'Deffri Gans' //nama Owner
-global.ownernya = '628887816980'
-global.linkyt = 'https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA' //link yt lu
-global.linkig = 'https://instagram.com/b4c00t.dtz' //link ig lu
+global.namabot = 'MGBOTZ-MD' //nama BOT Lu
+global.packname = ''
+global.author = 'ALEX' //nama Owner
+global.ownernya = '62I2171432358'
+global.linkyt = 'https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw' //link yt lu
+global.linkig = 'https://instagram.com/al_pakel' //link ig lu
 global.linkgh = '-' //link github lu
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙳𝚎𝚏𝚏𝚛𝚒 𝙶𝚊𝚗𝚜`
-global.wm2 = 'hoh' //ganti aja kalau mau
-global.wm = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛'
+global.titlebot = `⫹⫺ WhatsApp Bot | Multidevice`
+global.wm2 = '🗿' //ganti aja kalau mau
+global.wm = 'MGBOTZ'
 global.colong1 = 'Ciss 📸'
 global.colong2 = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛シ︎'
 global.kontak2 = [
@@ -24,10 +24,10 @@ global.kontak2 = [
 global.RL = 'HAMBAH ALLAH' //jenis kelamin lu
 global.gender = 'Boys' //jenis kelamin lu
 global.agama = 'islam' //agama lu
-global.age = '18' //usia lu sekarang
-global.kelas = 'Udah LuLus' //kelas lu
+global.age = '17' //usia lu sekarang
+global.kelas = 'Masih Sekolah' //kelas lu
 global.hobi = 'Gaming/editing/ngoding' //hobi lu bre
-global.tempat = 'INDONESIA , medan Sumatra Utara' //tempat tinggal lu
+global.tempat = 'INDONESIA , Jawa Tengah' //tempat tinggal lu
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -66,12 +66,12 @@ global.thumb = 'https://telegra.ph/file/6411cc04828f3cc335324.jpg'
 global.hwaifu = ['https://telegra.ph/file/a3bd959e8cf3131be2213.jpg']
 
 //Proses berlangsung
-global.wait = '_*𝒔𝒆𝒅𝒂𝒏𝒈 𝒅𝒊 𝒑𝒓𝒐𝒔𝒆𝒔...*_'
-global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓...*_'
+global.wait = '_*Memprosess Mohon menunggu...*_'
+global.eror = '_*Error 404...*_'
 
 //========Url Template Buttons=========//
-global.dtu = 'Group bot'
-global.urlnya = "https://chat.whatsapp.com/Dj8kMyI48u6KGbaAQtKi70"
+global.dtu = 'Group Official'
+global.urlnya = "https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC"
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
